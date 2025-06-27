@@ -5,6 +5,9 @@
   },
   "name": "melostream",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "main": "index.js",
   "devDependencies": {
     "@types/node": "^22.15.21"
